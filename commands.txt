@@ -1,0 +1,6 @@
+git init
+git add <file name>
+git commit -m <message to be displayed>
+git log
+git status
+
